@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🔍 MagicLens-Kids – Fun Object Finder & Learning App  
 
 > A **magical, child-friendly, and educational** web app powered by **AI** 🧠.  
